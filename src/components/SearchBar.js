@@ -30,7 +30,7 @@ const SearchBar = () => {
       <div className="d-flex justify-content-between outer-search">
         <Link to={"/"}>
           <h2>
-            <span>Movie</span>DB
+            <span>Movie</span>Surf
           </h2>
         </Link>
         <button
